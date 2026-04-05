@@ -11,17 +11,16 @@ A dating app for Singapore built around a different premise: before matching peo
 
 Most dating apps were built for Western markets and ported here. This one starts in Singapore.
 
-**Stack:** *(update as you build)*
 **Status:** MVP in development
 
 ---
 
 ## Tech Stack
 
-- **Frontend:** *(add what you're using — React, Next.js, etc.)*
-- **Backend:** *(Node.js, Supabase, Firebase, etc.)*
-- **Database:** *(PostgreSQL, MongoDB, etc.)*
-- **Deployment:** *(Vercel, Railway, etc.)*
+- **Frontend:** *(React)*
+- **Backend:** *(Firebase)*
+- **Database:** *(PostgreSQL)*
+- **Deployment:** *(Vercel)*
 
 ---
 
