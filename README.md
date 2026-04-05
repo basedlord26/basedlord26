@@ -36,7 +36,7 @@ I write about dating culture, technology, and building in Singapore.
 
 ## Currently Learning
 
-- *(Add what you're actively picking up — auth flows, API design, whatever)*
+- Learning about log in at the moment
 
 ---
 
