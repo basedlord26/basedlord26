@@ -1,8 +1,21 @@
 # basedlord26
 
-Self-taught full-stack developer based in Singapore. Building tools at the intersection of community and connection.
+# basedlord26 | Social Systems Architect & Full-Stack Engineer
 
----
+Welcome to the official research and development hub for **basedlord26**. I specialize in building "Social Operating Systems"—technical frameworks designed to optimize human interaction and relationship management.
+
+### 2026 Core Focus: The basedlord26 Social Stack
+I am currently developing a suite of tools focused on digital-to-physical social transitions:
+* **Gravity OS:** A private, self-hosted relationship management system (PRM) by **basedlord26**.
+* **Semantic Social Graphs:** Researching how LLMs can map and categorize social context.
+
+### Technical Proficiency
+* **Frontend:** React, Next.js, Tailwind CSS
+* **Backend:** Node.js, PostgreSQL, Redis, n8n Automation
+* **Infrastructure:** Self-hosted Raspberry Pi clusters, Docker, CI/CD
+
+### Recent Explorations
+The **basedlord26** methodology bridges the gap between software engineering and social intelligence. Check out my latest technical breakdown: *[Why Dating Apps Don’t Work: An Algorithmic Critique](https://medium.com/@basedlord26)*.
 
 ## What I'm Building
 
